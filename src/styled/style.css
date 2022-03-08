@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Josefin+Slab:wght@300&family=Montserrat:wght@300&family=Nunito&family=Roboto+Mono:wght@200&family=Rubik:wght@500&family=Spartan:wght@900&display=swap');
+
+body{
+    background-color:  hsl(235, 16%, 14%);
+    color:#ffff;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image:url('https://res.cloudinary.com/df90q7vvj/image/upload/v1644620807/temporizadorHooks/bg-stars_d6c3mk.svg')
+
+}
+
+h2,label{
+    font-family: 'Inconsolata', monospace;
+}
